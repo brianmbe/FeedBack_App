@@ -123,3 +123,4 @@ STATIC_URL = '/static/'
 
 # For storing files paths (for images)
 MEDIA_ROOT = BASE_DIR /'uploads'
+MEDIA_URL = "/user-media/"
